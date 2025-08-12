@@ -1,4 +1,4 @@
-![Penguin Hi]([https://giphy.com/embed/Cmr1OMJ2FN0B2])
+![Penguin Hi](https://giphy.com/embed/Cmr1OMJ2FN0B2)
 - 👋 Hi, I’m @karfong
 - 👀 I’m interested in **web development, data science, and anything related to cloud computing.**
 - 🌱 I’m currently learning **computer science fundamentals, with a focus on Python and JavaScript.**
